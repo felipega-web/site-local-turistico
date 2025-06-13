@@ -1,0 +1,23 @@
+.creditos {
+  font: var(--footer);
+  color: var(--text-secondary);
+}
+
+.creditos p {
+  width: max-content;
+  margin-inline: 43vw;
+  margin-bottom: 4.8rem;
+}
+
+/* media queries */
+@media (width < 63.9375em) {
+  .creditos p {
+    margin-inline: 37vw;
+  }
+}
+
+@media (width < 47.9375em) {
+  .creditos p {
+    margin-inline: 25vw;
+  }
+}

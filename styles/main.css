@@ -1,0 +1,12 @@
+main figure img {
+  height: 66rem;
+  margin-bottom: 2.4rem;
+}
+
+/* media queries */
+@media (width < 47.9375em) {
+  main figure img {
+    height: 35rem;
+    margin-bottom: 2.4rem;
+  }
+}

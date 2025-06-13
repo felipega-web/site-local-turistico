@@ -1,0 +1,50 @@
+.title-list {
+  margin-block: 6.4rem;
+}
+
+.title-list h2 {
+  padding-block: 0.2rem 0.8rem;
+}
+
+.title-list p {
+  margin-bottom: 6.4rem;
+}
+
+.card-travel-1,
+.card-travel-2 {
+  margin-bottom: 4.8rem;
+}
+
+.card-travel-3 {
+  margin-bottom: 4rem;
+}
+
+.card-travel-1 figure,
+.card-travel-2 figure,
+.card-travel-3 figure {
+  margin-bottom: 2rem;
+}
+
+.accent-blue,
+.accent-purple,
+.accent-pink,
+.accent-orange {
+  font: var(--paragraph);
+  font-weight: bold;
+}
+
+.accent-blue {
+  color: var(--accent-blue);
+}
+
+.accent-purple {
+  color: var(--accent-purple);
+}
+
+.accent-pink {
+  color: var(--accent-pink);
+}
+
+.accent-orange {
+  color: var(--accent-orange);
+}
